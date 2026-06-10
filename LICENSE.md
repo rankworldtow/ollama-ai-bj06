@@ -1,4 +1,4 @@
-# 
+# Lightweight Ollama extensions. Featuring version-control and multi-modal-support — optimized for maximum performance and efficiency.
 
 
 
